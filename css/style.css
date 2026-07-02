@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
             background-color: rgba(5, 6, 6, 0.805);
             color: aliceblue;
             text-align: center;
@@ -10,11 +10,19 @@ p{
 
 body {
     background-color: rgba(178, 211, 211, 0.805);
-}
+} */
 
 /*
 selecter{
     property: value;
 }
 */
+
+.bg-red-h1{
+    background-color: rgba(255, 0, 0, 0.805);
+}
+
+.bg-blue-h1{
+    background-color: rgba(0, 0, 255, 0.805);
+}
 
