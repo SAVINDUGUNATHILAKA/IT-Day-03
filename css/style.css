@@ -28,3 +28,7 @@ selecter{
     color: aliceblue;
 }
 
+#bg-paragraph{
+    background-color: rgba(0, 255, 0, 0.805);
+    color: aliceblue;
+}
