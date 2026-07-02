@@ -3,4 +3,8 @@ h1 {
             color: aliceblue;
             text-align: center;
         }
-        
+
+p{
+    background-color: rgba(37, 102, 102, 0.805);
+}
+
