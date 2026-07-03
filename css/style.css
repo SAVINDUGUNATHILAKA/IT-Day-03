@@ -11,12 +11,12 @@ p{
 body {
     background-color: rgba(178, 211, 211, 0.805);
 } */
-
+/* 
 /*
 selecter{
     property: value;
 }
-*/
+*/ 
 
 .bg-red-h1{
     background-color: rgba(255, 0, 0, 0.805);
@@ -32,6 +32,8 @@ selecter{
     color: aliceblue;
     letter-spacing:0svid;
     text-decoration:line-through;
+    text-align: center;
+    padding: 10px;
 
 
 }
@@ -40,9 +42,9 @@ selecter{
     background-color: rgba(0, 255, 0, 0.805);
     color: aliceblue;
 }
-/* 
+
 *{
     margin: 10px;
     padding: 0;
 }
- */
+ 
