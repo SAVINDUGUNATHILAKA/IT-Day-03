@@ -23,11 +23,17 @@ selecter{
     color: aliceblue;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size:medium;
+    text-align: center;
+    letter-spacing: 2px;
 }
 
 .bg-blue-h1{
     background-color: rgba(0, 0, 255, 0.805);
     color: aliceblue;
+    letter-spacing:0svid;
+    text-decoration:line-through;
+
+
 }
 
 #bg-paragraph{
