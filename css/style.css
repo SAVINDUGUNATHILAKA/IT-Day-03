@@ -34,6 +34,8 @@ selecter{
     text-decoration:line-through;
     text-align: center;
     padding: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
 
 
 }
